@@ -1,6 +1,9 @@
 Package: gapAnalysis
 Title: A package to assess the ex situ conservation of wild germplasm
 Version: 0.1
+Authors@R: c( person("Nora P.", "Castaneda-Alvarez", role = c("cre","aut"),
+    email="npcastaneda00@gmail.com"), person("Julian", "Ramirez-Villegas", role
+    = "aut"), person("Harold A.", "Achicanoy", role = "aut"))
 Description: Estimates the sampling, geographic and ecological
     representativeness of wild germplasm in ex situ holdings, as described in
     DOI: 10.1371/journal.pone.0013497
