@@ -1,1 +1,1 @@
-export(square)
+export(square,spASD15,calcASD15)
