@@ -8,5 +8,8 @@ Description: Estimates the sampling, geographic and ecological
     representativeness of wild germplasm in ex situ holdings, as described in
     DOI: 10.1371/journal.pone.0013497
 Depends:
-    R (>= 3.1.0)
+    R (>= 3.1.0),
+    raster,
+    maptools,
+    rgdal
 License: MIT
