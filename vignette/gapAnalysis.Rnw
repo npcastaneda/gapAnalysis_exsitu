@@ -1,0 +1,26 @@
+\documentclass[a4paper]{article}
+
+\title{The gapAnalysis package}
+\author{Nora P. Castaneda Alvarez , Julian Ramirez Villegas, Harold A. Achicanoy}
+
+\usepackage{a4wide}
+\usepackage[utf8]{inputenc}
+
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+
+
+\maketitle
+
+This vignette describes the \R package '\verb@raster@'. A raster is a spatial (geographic) data
+
+A simple example: the integers from 1 to 10 are
+<<print=TRUE>>=
+1:10
+<<results=hide>>=
+print(1:20)
+@ % the above is just to ensure that 2 code chunks can follow each other
+
+
+
+\end{document}
