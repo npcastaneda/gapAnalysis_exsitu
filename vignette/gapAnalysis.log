@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.7.31)  9 OCT 2014 13:25
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.7.31)  9 OCT 2014 20:38
 entering extended mode
 **gapAnalysis.tex
 (D:\_code\R\PhD_Thesis\chapter4\gapAnalysis\vignette\gapAnalysis.tex
@@ -522,40 +522,36 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 14.
-
-! Undefined control sequence.
-l.16 This vignette describes the \R
-                                    package '\verb@raster@'. A raster is a s...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 LaTeX Font Info:    Try loading font information for T1+aett on input line 16.
-("C:\Program Files\MiKTeX 2.9\tex\latex\ae\t1aett.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\ae\t1aett.fd"
 File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
-) [1
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 18.
+ [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
 (D:\_code\R\PhD_Thesis\chapter4\gapAnalysis\vignette\gapAnalysis.aux) ) 
 Here is how much of TeX's memory you used:
- 2613 strings out of 493921
- 34810 string characters out of 3147264
+ 2619 strings out of 493921
+ 34865 string characters out of 3147264
  78344 words of memory out of 3000000
- 5866 multiletter control sequences out of 15000+200000
- 16144 words of font info for 42 fonts, out of 3000000 for 9000
+ 5869 multiletter control sequences out of 15000+200000
+ 18299 words of font info for 45 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  35i,6n,21p,251b,187s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Prog
 ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files
 /MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2
 .9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmsltt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmtt10.pfb>
-Output written on gapAnalysis.pdf (1 page, 63270 bytes).
+type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmsltt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmtt10.pfb>
+Output written on gapAnalysis.pdf (1 page, 71339 bytes).
 PDF statistics:
- 27 PDF objects out of 1000 (max. 8388607)
+ 31 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  5 words of extra memory for PDF output out of 10000 (max. 10000000)
 
